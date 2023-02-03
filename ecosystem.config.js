@@ -13,7 +13,7 @@ module.exports = {
           NODE_ENV: 'production',
           DATABASE_HOST: 'porfoliodashboarddb.ctkmvzgif0cy.ap-south-1.rds.amazonaws.com', // database Endpoint under 'Connectivity & Security' tab
           DATABASE_PORT: '5432',
-          DATABASE_NAME: 'porfoliodashboarddb', // DB name under 'Configuration' tab
+          DATABASE_NAME: 'postgres', // DB name under 'Configuration' tab
           DATABASE_USERNAME: 'postgres', // default username
           DATABASE_PASSWORD: 'Negijai1234',
           AWS_ACCESS_KEY_ID: 'AKIAW53ZRXDKGBETOKP3',
